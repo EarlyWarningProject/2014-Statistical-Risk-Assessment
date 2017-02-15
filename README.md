@@ -1,7 +1,7 @@
 cpg-statrisk-2014
 =================
 
-R scripts for generating statistical forecasts of onsets of state-led mass killing episodes described in this post on my blog, Dart-Throwing Chimp:
+R scripts for generating statistical forecasts of onsets of state-led mass killing episodes described in this post on Jay Ufelder's blog, Dart-Throwing Chimp:
 
 http://wp.me/p1domH-1kD
 
